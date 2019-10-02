@@ -1,0 +1,28 @@
+# Java
+*.class
+
+# JCreator files
+*.jcu
+*.jcw
+*.jcp
+
+
+*.jar
+
+*.gif
+*.jpeg
+*.jpg
+*.png
+
+*.txt
+*.doc
+
+
+*.db
+*.dat
+
+*.vs
+
+CSIII - Problem Sets/Topic 28 - Maps ~ HashMap/Problem Set/15-121 Homework Assignment.website
+*./Lesson Set
+*./lesson

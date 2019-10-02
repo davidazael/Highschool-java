@@ -1,0 +1,22 @@
+///////////////////////////////////////////////////////////////////////////
+//
+// Java5309	Write a program that implements a QueueADT.
+//
+//			Add a method Item[] multiPop(int k) to BrownStack that
+//			that returns all N elements on the queue as an array 
+//			of length N.
+//
+//
+//		public Object[] multiPop(int k)
+//		{
+//
+//			return ?
+//		}
+//
+
+//
+//
+///////////////////////////////////////////////////////////////////////////
+
+
+

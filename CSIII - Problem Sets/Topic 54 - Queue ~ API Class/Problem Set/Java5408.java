@@ -1,0 +1,14 @@
+///////////////////////////////////////////////////////////////////////////
+//
+// Java5407	Write a recursive function that takes as input a queue, 
+//			and rearranges it so that it is in reverse order. 
+//
+//			Hint: 
+//				dequeue the first element, 
+//				recursively reverse the queue,
+//				the enqueue the first element.
+//
+///////////////////////////////////////////////////////////////////////////
+
+
+

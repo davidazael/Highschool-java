@@ -1,0 +1,13 @@
+///////////////////////////////////////////////////////////////////////////
+//
+// Java5504	Write a program that implements 3 queues.  Write the 
+//			method pop3 such that all three queues will poll and the 
+//			data item of the longest queue will be offered to the 
+//			queue of the smallest queue.
+//
+//
+///////////////////////////////////////////////////////////////////////////
+
+
+
+

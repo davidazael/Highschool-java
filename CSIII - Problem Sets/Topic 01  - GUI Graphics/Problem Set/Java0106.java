@@ -1,0 +1,10 @@
+///////////////////////////////////////////////////////////////////////////
+//
+// Java0106 Search the internet for a picture of a farm.  Next search the
+//			internet to find icons of farm animals.  Use the farm image
+//			as the background and place the animal icons on the farm image.
+//
+///////////////////////////////////////////////////////////////////////////
+
+
+

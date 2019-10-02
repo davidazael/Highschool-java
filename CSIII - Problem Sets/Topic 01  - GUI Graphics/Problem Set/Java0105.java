@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////////////////////
+//
+// Java0105 Search the internet for a picture of a beach.  Write a
+//			program that fills the frame with the image of the beach.
+//
+//
+///////////////////////////////////////////////////////////////////////////
+
+
+public class Java0303
+{
+    public static void main(String[] args)
+    {
+
+    }
+
+}
